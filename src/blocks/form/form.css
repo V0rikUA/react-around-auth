@@ -1,0 +1,10 @@
+.form {
+  margin: 54px 36px 36px;
+  z-index: 2;
+}
+
+@media screen and (max-width: 425px) {
+  .form {
+    margin: 76px 22px 25px;
+  }
+}

@@ -1,0 +1,6 @@
+.gallery-list__image {
+  min-height: 282px;
+  min-width: 282px;
+  object-fit: cover;
+  cursor: pointer;
+}

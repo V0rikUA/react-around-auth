@@ -1,0 +1,28 @@
+.form__submit-button {
+  padding: 0;
+  width: 100%;
+  border: none;
+  border-radius: 2px;
+  background-color: #000;
+  color: #fff;
+  box-sizing: border-box;
+  min-height: 50px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.22;
+  cursor: pointer;
+  transition: opacity 0.4s;
+}
+
+.form__submit-button:hover {
+  opacity: 80%;
+}
+
+@media screen and (max-width: 425px) {
+  .form__submit-button {
+    margin-top: 26px;
+    font-size: 14px;
+    line-height: 1.21;
+    min-height: 46px;
+  }
+}

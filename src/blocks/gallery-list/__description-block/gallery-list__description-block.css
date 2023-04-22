@@ -1,0 +1,7 @@
+.gallery-list__description-block {
+  padding: 21px 15px 27px 21px;
+  color: #000;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

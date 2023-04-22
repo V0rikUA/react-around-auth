@@ -1,0 +1,8 @@
+.form__placeholder {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 5px);
+  font-size: 12px;
+  line-height: 15px;
+  color: #f00;
+}
